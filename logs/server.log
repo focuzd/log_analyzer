@@ -1,0 +1,9 @@
+2025-06-13 09:01:15 [INFO] Server started by user=admin
+2025-06-13 09:02:02 [WARNING] High memory usage detected
+2025-06-13 09:02:45 [ERROR] Disk full on /dev/sda1
+2025-06-13 09:03:30 [INFO] User login success user=john
+2025-06-13 09:04:10 [ERROR] Failed to connect to database
+2025-06-13 09:05:00 [DEBUG] Checking cache state
+2025-06-13 09:05:55 [WARNING] Deprecated API call used
+2025-06-13 09:06:20 [ERROR] user=admin failed authentication
+2025-06-13 09:07:00 [INFO] Server shutdown initiated
